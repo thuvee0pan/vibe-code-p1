@@ -1,0 +1,38 @@
+## OS
+.DS_Store
+Thumbs.db
+
+## Dependencies
+node_modules/
+
+## Build outputs
+dist/
+build/
+.next/
+.out/
+coverage/
+
+## Caches and logs
+.cache/
+.tmp/
+logs/
+*.log
+*.tsbuildinfo
+
+## Environment files
+.env
+.env.*
+!.env.example
+.envrc
+
+## Editors/IDE
+.vscode/
+.idea/
+
+## Python (if present)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+
