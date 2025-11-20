@@ -1,3 +1,38 @@
+## Getting started
+
+This is a minimal React + Vite app with a single responsive landing page that says “Come On board”.
+
+### Run locally
+
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+2. Start the dev server:
+   ```bash
+   npm run dev
+   ```
+   The app will open on `http://localhost:5173`.
+
+### Build for production
+
+```bash
+npm run build
+npm run preview
+```
+
+### Project structure
+
+- `index.html`: App entry
+- `src/App.jsx`: Landing page UI
+- `src/main.jsx`: React mount
+- `src/styles.css`: Global styles
+- `public/favicon.svg`: App icon
+
+### Notes
+
+- Built with Vite for fast dev and builds.
+- Responsive and accessible UI out of the box.
 ## Vibe
 
 A minimal starter README for the `vibe` repository. Update sections below as the project evolves.
